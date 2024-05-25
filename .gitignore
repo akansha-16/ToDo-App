@@ -12,6 +12,3 @@
 bin/
 gen/
 out/
-
-# Gradle files
-build/
