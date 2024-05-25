@@ -8,3 +8,10 @@
 /captures
 .externalNativeBuild
 .cxx
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+build/
